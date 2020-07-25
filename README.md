@@ -1,9 +1,6 @@
 # CS235-Data-Mining
 
 
-This project contains a K-Means Clustering by Husna Sayedi and a Neural Network Implementation by Kevin Vega. 
-Our third teammamte Shahab Geravesh did his work in SPSS, therefore it is not included in this repository. 
-
 ## Link to Poster Video
 https://drive.google.com/file/d/1_HcZFM6o84qMO66U6I8MlTqcZGCbWuqk/view?usp=sharing
 
